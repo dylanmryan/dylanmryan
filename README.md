@@ -9,14 +9,14 @@ Open to Summer 2027: quantitative research/trading · ML engineering · data eng
 
 ### Research
 
-**Prediction-market calibration** · Northwestern BPF Undergraduate Research Grant · advised by Prof. Arend Kuyper
+**[Calibrating the Crowd](https://github.com/dylanmryan/calibrating-the-crowd)** — prediction-market calibration · Northwestern BPF Undergraduate Research Grant, Summer 2026 · advised by Prof. Arend Kuyper
 
 Do some betting markets predict the future better than others? I compared a regulated exchange, a crypto exchange and sportsbooks across **5,333 games**.
 
 - All three forecast about equally well — where you bet matters less than people assume
 - Trading costs ~**4.6%** per position, so a market can price things accurately and still be a bad deal
 - Built a Python + DuckDB pipeline that snapshots prices across venues on a schedule and matches equivalent contracts automatically **99.3%** of the time
-- **73** automated checks halt the analysis if the data looks wrong; claims that didn't survive a bigger sample were retracted in the open
+- **79** automated checks halt the analysis if the data looks wrong; claims that didn't survive a bigger sample were retracted in the open
 
 Previously a research assistant on faculty MLB work, building the data pipelines behind it.
 
